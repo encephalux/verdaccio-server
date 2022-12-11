@@ -1,3 +1,8 @@
+.idea/
+package-lock.json
+storage/
+htpasswd
+
 # Logs
 logs
 *.log

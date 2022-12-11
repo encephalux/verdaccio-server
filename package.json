@@ -1,0 +1,28 @@
+{
+  "name": "verdaccio-server",
+  "version": "1.0.0",
+  "description": "Private registry based on verdaccio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/encephalux/verdaccio-server.git"
+  },
+  "keywords": [
+    "verdaccio",
+    "server",
+    "npm",
+    "registry"
+  ],
+  "author": "Ova.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/encephalux/verdaccio-server/issues"
+  },
+  "homepage": "https://github.com/encephalux/verdaccio-server#readme",
+  "dependencies": {
+    "verdaccio": "^5.18.0"
+  }
+}
